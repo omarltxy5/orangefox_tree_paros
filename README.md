@@ -1,9 +1,2 @@
-Unofficial OrangeFox Device Tree for Motorola G32 (devon)
+paros tree
 
-### Working
-
-- All
-
-### Not implemented (Lazyness)
-
-- Flashlight
